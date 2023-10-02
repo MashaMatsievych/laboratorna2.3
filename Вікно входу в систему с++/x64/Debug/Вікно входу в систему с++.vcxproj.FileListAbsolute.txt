@@ -1,0 +1,4 @@
+C:\Users\1234\source\repos\Вікно входу в систему с++\x64\Debug\Вікно входу в систему с++.vcxproj.AssemblyReference.cache
+C:\Users\1234\source\repos\Вікно входу в систему с++\x64\Debug\Вікновходувсистемус.MainForm.resources
+C:\Users\1234\source\repos\Вікно входу в систему с++\x64\Debug\Вікно входу в систему с++.vcxproj.GenerateResource.cache
+C:\Users\1234\source\repos\Вікно входу в систему с++\x64\Debug\Вікно входу в систему с++.exe
